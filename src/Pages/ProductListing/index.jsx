@@ -5,7 +5,7 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import Stack from '@mui/material/Stack';
 import NavigateNextIcon from '@mui/icons-material/NavigateNext';
-import ProductItem from '../../components/ProductItem';
+import ProductItem from '../../components/ProductItem/index';
 import Button from '@mui/material/Button';
 import { BsUiChecksGrid } from "react-icons/bs";
 import { IoIosMenu } from "react-icons/io";
