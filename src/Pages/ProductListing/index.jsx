@@ -10,7 +10,7 @@ import Button from '@mui/material/Button';
 import { BsUiChecksGrid } from "react-icons/bs";
 import { IoIosMenu } from "react-icons/io";
 
-import ProductItemViewList from '../../components/ProductItemViewList';
+import ProductItemViewList from '../../components/ProductItemViewList/index';
 import Pagination from '@mui/material/Pagination';
 import { motion, AnimatePresence } from 'framer-motion';
 
