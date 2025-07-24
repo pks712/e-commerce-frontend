@@ -1,9 +1,7 @@
 import React from "react";
 import product1 from "../../assets/products1.jpg";
 import product11 from "../../assets/product11.jpg";
-import "./productItem.css";
 import { Link } from "react-router-dom";
-
 import Rating from "@mui/material/Rating";
 import Box from "@mui/material/Box";
 import StarIcon from "@mui/icons-material/Star";
