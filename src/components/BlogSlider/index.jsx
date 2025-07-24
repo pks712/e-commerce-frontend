@@ -1,5 +1,5 @@
 import React from "react";
-import blogImage from "../../assets/blogimage.jpg";
+import blogImage from "../../assets/blogImage.jpg";
 import { IoMdTime } from "react-icons/io";
 import { IoIosArrowForward } from "react-icons/io";
 import { Link } from "react-router-dom";
