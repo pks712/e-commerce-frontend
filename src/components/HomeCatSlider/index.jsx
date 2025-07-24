@@ -7,7 +7,7 @@ import FoImage from "../../assets/footwaer.png";
 import GImage from "../../assets/go.png";
 import BuImage from "../../assets/butuy.png";
 import WImage from "../../assets/wellness.png";
-import JImage from "../../assets/J.png";
+import JImage from "../../assets/j.png";
 
 import 'swiper/css';
 import "swiper/css/navigation";
