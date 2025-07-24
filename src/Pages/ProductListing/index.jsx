@@ -5,12 +5,11 @@ import Typography from '@mui/material/Typography';
 import Link from '@mui/material/Link';
 import Stack from '@mui/material/Stack';
 import NavigateNextIcon from '@mui/icons-material/NavigateNext';
-import ProductItem from '../../components/ProductItem/index';
+import ProductItem from '../../components/ProductItem';
 import Button from '@mui/material/Button';
 import { BsUiChecksGrid } from "react-icons/bs";
 import { IoIosMenu } from "react-icons/io";
-
-import ProductItemViewList from '../../components/ProductItemViewList/index';
+import ProductItemViewList from '../../components/ProductItemViewList';
 import Pagination from '@mui/material/Pagination';
 import { motion, AnimatePresence } from 'framer-motion';
 
